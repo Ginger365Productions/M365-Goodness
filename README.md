@@ -1,5 +1,5 @@
 # M365-Goodness
-After more than 35 years in the industry, I’ve reached a point where sharing what I’ve learned feels just as important as the work itself. Over the decades, I’ve written countless scripts, utilities, and little bits of automation to solve real problems, save time, and make life easier for myself and the teams I’ve supported.
+After more than 30 years in the industry, I’ve reached a point where sharing what I’ve learned feels just as important as the work itself. Over the decades, I’ve written countless scripts, utilities, and little bits of automation to solve real problems, save time, and make life easier for myself and the teams I’ve supported.
 
 **This repository is my way of giving back.**
 
