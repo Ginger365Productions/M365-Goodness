@@ -6,6 +6,7 @@ After more than 35 years in the industry, I’ve reached a point where sharing w
 I’ve benefited enormously from the generosity of others who shared their knowledge, ideas, and code. Now it’s my turn to contribute by releasing some of the scripts, patterns, and approaches that have helped me achieve my goals across consulting, engineering, and Microsoft 365 work.
 
 **What You’ll Find Here**
+
 This repo will grow over time, but the core idea is simple:
 
 Practical scripts I’ve used in real-world scenarios
