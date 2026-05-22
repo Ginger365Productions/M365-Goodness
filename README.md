@@ -20,11 +20,13 @@ Reusable patterns that can be adapted to your own environment
 Everything here is designed to be clear, useful, and easy to build upon.
 
 **A Community Mindset**
+
 Technology moves fast, but one thing never changes:
 We get further when we help each other.
 
 If anything here helps you solve a problem, save time, or spark an idea, then this repository has done its job. Feel free to fork, adapt, improve, or contribute back.
 
 **Let’s Work Smarter Together**
+
 Thanks for stopping by.
 Here’s to sharing knowledge, lifting each other up, and making our work just a little easier.
